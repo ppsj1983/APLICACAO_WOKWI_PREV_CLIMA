@@ -1,3 +1,7 @@
+video de apresentação https://youtu.be/DOuDFw4q8YE
+aplicação wokwi https://wokwi.com/projects/444280653137120257
+
+
 Objetivo do Código
 
 Monitorar condições simuladas (umidade, pH, nutrientes).
