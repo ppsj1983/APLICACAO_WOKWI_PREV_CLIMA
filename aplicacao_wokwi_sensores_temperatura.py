@@ -1,3 +1,7 @@
+#https://wokwi.com/projects/444280653137120257 [link para aplicação]
+
+
+
 int prob_chuva[] = {0, 20, 100, 100, 0, 0, 30, 25, 50, 0, 0, 40, 50, 100, 0};
 String nivel_chuva_original[] = {"Seco", "Forte", "Fraca", "Fraca", "Seco", "Seco", "Moderada", "Moderada", "Forte", "Seco", "Seco", "Fraca", "Moderada", "Fraca", "Seca"};
 String data_ref[] = {"15/out", "16/out", "17/out", "18/out", "19/out", "20/out", "21/out", "22/out", "23/out", "24/out", "25/out", "26/out", "27/out", "28/out", "29/out"};
